@@ -1,0 +1,23 @@
+#input {
+	width: 500px;
+	height: 50px;
+	font-size: large;
+	align-self: center;
+	margin-top: 100px;
+}
+
+#btn {
+	width: 200px;
+	height: 50px;
+	font-size: small;
+	color: bisque;
+	background-color: black;
+	margin-right: 300px;
+	margin-bottom: 10px;
+}
+
+#copy {
+	width: 200px;
+	height: 50px;
+	margin-right: 300px;
+}
